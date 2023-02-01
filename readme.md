@@ -32,6 +32,12 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+Here is a simple flow chart:
 
-[MIT](https://choosealicense.com/licenses/mit/)
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
